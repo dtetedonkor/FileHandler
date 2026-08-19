@@ -9,7 +9,7 @@
 #endif
 
 /* ---------- hash map: word -> count (separate chaining) ---------- */
-
+// Hello
 typedef struct Entry {
     char *key;
     long count;
